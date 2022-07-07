@@ -6,17 +6,17 @@
 
 @font-face {
     font-family: "Montserrat-Regular";
-    src: url("font/static/Montserrat-Regular.ttf");
+    src: url(assets/fonts/ac98a5f5ca71180fe293683b5ea727a8.ttf);
 }
 
 @font-face {
     font-family: "Montserrat-Bold";
-    src: url("font/static/Montserrat-Bold.ttf");
+    src: url(assets/fonts/63fae500fdcf19ce83d4e55c5dbb744b.ttf);
 }
 
 @font-face {
     font-family: "Montserrat-Medium";
-    src: url("font/static/Montserrat-Medium.ttf");
+    src: url(assets/fonts/3a0917345468c959207a35a358557a85.ttf);
 }
 
 p {
@@ -101,3 +101,5 @@ input {
     font-size: 14px;
     padding-left: 40px;
 }
+
+/*# sourceMappingURL=main.css.map*/

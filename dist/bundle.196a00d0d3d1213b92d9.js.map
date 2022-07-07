@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./src/script.js"],"names":["console","log"],"mappings":"mBAEAA,QAAQC,IAAI,S","file":"bundle.196a00d0d3d1213b92d9.js","sourcesContent":["import './style.css'\r\n\r\nconsole.log(\"Test\")"],"sourceRoot":""}
